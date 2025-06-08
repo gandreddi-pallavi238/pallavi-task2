@@ -1,5 +1,13 @@
 ## 💬 Real-Time Chat Application
+company:CODTECH IT SOLUTIONS
 
+NAME:GANDREDDI PALLAVI
+
+INTERN ID:CT04DF916
+
+DOMAIN:FULL STACK WEB DEVELOPMENT
+
+DURATION:4 WEEKS
 
 ### 📌 **Task 2 - Full Stack Internship @ CodTech**
 
@@ -117,8 +125,5 @@ If hosted online (e.g., on Render/Glitch/Heroku), include a link:
 
 ---
 
-### 📜 License
-
-This project is developed as part of the **CodTech Full Stack Internship**. Feel free to use and modify it for educational purposes.
-
----
+### output
+![image](https://github.com/user-attachments/assets/9c007251-87c5-44ee-973e-7479ee6a4e18)
